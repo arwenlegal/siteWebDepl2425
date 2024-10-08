@@ -193,6 +193,7 @@ hr {
 }
 img {
     vertical-align: middle;
+    height: auto;
 }
 a {
     color: inherit;
